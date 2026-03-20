@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bgl7o3a2myn3f"
+path="res://.godot/imported/पान मिठो चुनामा ( Paan Mitho Chunama) नेपाली लोक दोहोरी - Sushil Ghimire (144p, h264) (online-video-cutter.com) copy.ogg-31c0410a91efad3b79f03f3bbaf7f095.oggvorbisstr"
+
+[deps]
+
+source_file="res://पान मिठो चुनामा ( Paan Mitho Chunama) नेपाली लोक दोहोरी - Sushil Ghimire (144p, h264) (online-video-cutter.com) copy.ogg"
+dest_files=["res://.godot/imported/पान मिठो चुनामा ( Paan Mitho Chunama) नेपाली लोक दोहोरी - Sushil Ghimire (144p, h264) (online-video-cutter.com) copy.ogg-31c0410a91efad3b79f03f3bbaf7f095.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
